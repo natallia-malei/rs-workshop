@@ -1,2 +1,2 @@
 some text here
-changes from <master>
+changes from <master> - new changes!
